@@ -1,0 +1,115 @@
+[2009-05-12 15:51:09] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:51:09] [info] Service HRMServer name Apache Tomcat HRMServer
+[2009-05-12 15:51:09] [info] Service HRMServer installed
+[2009-05-12 15:51:09] [info] Procrun finished.
+[2009-05-12 15:51:09] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:51:09] [info] Updating service...
+[2009-05-12 15:51:09] [info] Service HRMServer updated
+[2009-05-12 15:51:09] [info] Update service finished.
+[2009-05-12 15:51:09] [info] Procrun finished.
+[2009-05-12 15:51:09] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:51:09] [info] Updating service...
+[2009-05-12 15:51:09] [info] Service HRMServer updated
+[2009-05-12 15:51:09] [info] Update service finished.
+[2009-05-12 15:51:09] [info] Procrun finished.
+[2009-05-12 15:53:39] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:53:39] [info] Service HRMServer name HRMServer
+[2009-05-12 15:53:39] [info] Service HRMServer installed
+[2009-05-12 15:53:39] [info] Procrun finished.
+[2009-05-12 15:53:39] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:53:39] [info] Updating service...
+[2009-05-12 15:53:39] [info] Service HRMServer updated
+[2009-05-12 15:53:39] [info] Update service finished.
+[2009-05-12 15:53:39] [info] Procrun finished.
+[2009-05-12 15:53:39] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:53:39] [info] Updating service...
+[2009-05-12 15:53:39] [info] Service HRMServer updated
+[2009-05-12 15:53:39] [info] Update service finished.
+[2009-05-12 15:53:39] [info] Procrun finished.
+[2009-05-12 15:54:06] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:54:06] [info] Running Service...
+[2009-05-12 15:54:06] [info] Starting service...
+[2009-05-12 15:54:08] [info] Service started in 1712 ms.
+[2009-05-12 15:54:26] [info] Stopping service...
+[2009-05-12 15:54:28] [info] Service stopped.
+[2009-05-12 15:54:28] [info] Run service finished.
+[2009-05-12 15:54:28] [info] Procrun finished.
+[2009-05-12 15:55:02] [info] Procrun (2.0.3.0) started
+[2009-05-12 15:55:02] [info] Running Service...
+[2009-05-12 15:55:02] [info] Starting service...
+[2009-05-12 15:55:03] [info] Service started in 1221 ms.
+[2009-05-12 16:22:21] [info] Stopping service...
+[2009-05-12 16:22:23] [info] Service stopped.
+[2009-05-12 16:22:23] [info] Run service finished.
+[2009-05-12 16:22:23] [info] Procrun finished.
+[2009-05-12 16:31:54] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:31:54] [info] Service HRMServer name HRMServer
+[2009-05-12 16:31:54] [420  service.c] [error] The specified service already exists.
+[2009-05-12 16:31:54] [606  prunsrv.c] [error] Failed installing HRMServer service
+[2009-05-12 16:31:54] [info] Procrun finished.
+[2009-05-12 16:32:16] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:32:16] [info] Service HRMServer name HRMServer
+[2009-05-12 16:32:16] [info] Service HRMServer installed
+[2009-05-12 16:32:16] [info] Procrun finished.
+[2009-05-12 16:32:16] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:32:16] [info] Updating service...
+[2009-05-12 16:32:16] [info] Service HRMServer updated
+[2009-05-12 16:32:16] [info] Update service finished.
+[2009-05-12 16:32:16] [info] Procrun finished.
+[2009-05-12 16:32:16] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:32:16] [info] Updating service...
+[2009-05-12 16:32:16] [info] Service HRMServer updated
+[2009-05-12 16:32:16] [info] Update service finished.
+[2009-05-12 16:32:16] [info] Procrun finished.
+[2009-05-12 16:32:53] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:32:53] [info] Service HRMServer name HRMServer
+[2009-05-12 16:32:53] [420  service.c] [error] The specified service already exists.
+[2009-05-12 16:32:53] [606  prunsrv.c] [error] Failed installing HRMServer service
+[2009-05-12 16:32:53] [info] Procrun finished.
+[2009-05-12 16:34:01] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:34:01] [info] Service HRMServer name HRMServer
+[2009-05-12 16:34:01] [420  service.c] [error] The specified service already exists.
+[2009-05-12 16:34:01] [606  prunsrv.c] [error] Failed installing HRMServer service
+[2009-05-12 16:34:01] [info] Procrun finished.
+[2009-05-12 16:37:49] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:37:49] [info] Service HRMServer name HRMServer
+[2009-05-12 16:37:49] [info] Service HRMServer installed
+[2009-05-12 16:37:49] [info] Procrun finished.
+[2009-05-12 16:37:49] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:37:49] [info] Updating service...
+[2009-05-12 16:37:49] [info] Service HRMServer updated
+[2009-05-12 16:37:49] [info] Update service finished.
+[2009-05-12 16:37:49] [info] Procrun finished.
+[2009-05-12 16:37:49] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:37:49] [info] Updating service...
+[2009-05-12 16:37:49] [info] Service HRMServer updated
+[2009-05-12 16:37:49] [info] Update service finished.
+[2009-05-12 16:37:49] [info] Procrun finished.
+[2009-05-12 16:39:51] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:39:51] [info] Service HRMserver123 name HRMserver123
+[2009-05-12 16:39:52] [info] Service HRMserver123 installed
+[2009-05-12 16:39:52] [info] Procrun finished.
+[2009-05-12 16:39:52] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:39:52] [info] Updating service...
+[2009-05-12 16:39:52] [info] Service HRMserver123 updated
+[2009-05-12 16:39:52] [info] Update service finished.
+[2009-05-12 16:39:52] [info] Procrun finished.
+[2009-05-12 16:39:52] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:39:52] [info] Updating service...
+[2009-05-12 16:39:52] [info] Service HRMserver123 updated
+[2009-05-12 16:39:52] [info] Update service finished.
+[2009-05-12 16:39:52] [info] Procrun finished.
+[2009-05-12 16:43:37] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:43:37] [info] Service HRMserver name HRMserver
+[2009-05-12 16:43:37] [info] Service HRMserver installed
+[2009-05-12 16:43:37] [info] Procrun finished.
+[2009-05-12 16:43:37] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:43:37] [info] Updating service...
+[2009-05-12 16:43:37] [info] Service HRMserver updated
+[2009-05-12 16:43:37] [info] Update service finished.
+[2009-05-12 16:43:37] [info] Procrun finished.
+[2009-05-12 16:43:37] [info] Procrun (2.0.3.0) started
+[2009-05-12 16:43:37] [info] Updating service...
+[2009-05-12 16:43:37] [info] Service HRMserver updated
+[2009-05-12 16:43:37] [info] Update service finished.
+[2009-05-12 16:43:37] [info] Procrun finished.

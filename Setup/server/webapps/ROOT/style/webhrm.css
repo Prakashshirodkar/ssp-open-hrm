@@ -1,0 +1,70 @@
+	.title1 {
+		color: #FFFFFF;
+		font-weight: bold;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12;
+		height:25px;
+		background-color:#007D93;
+	}
+	.title {		
+		color: #2E3192;
+		font-weight: bold;
+		font-size:20px;
+		font-family:Arial, Helvetica, sans-serif;		
+	}
+	#headercontent{
+		margin: 20px 5px 5px 5px;
+		border-bottom:1px solid #CCCCCC;
+	}
+	
+	.des {
+		color:#003399; 
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12;
+	}
+	.value {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12;
+	}
+	.tablecontent{
+		width:814px;
+		cellpadding:0;
+		cellspacing:0;		
+	}
+	.style2 {
+	color: #007D93;
+	font-weight: bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+	}
+	.style3 {
+		font-family:Arial, Helvetica, sans-serif;
+		color: #FFFFFF;
+		font-weight: bold;
+		font-size:12px;
+	}
+	.style4 {
+		color: #666666;
+		font-weight:inherit;
+		font-size:12px;
+	}
+	.links {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:13;
+		font-weight:bold;
+		text-decoration:none; 
+		color:#0066FF;
+	}
+	
+	.desbc {
+		color:#003399; 
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11;
+	}
+	
+	.valuebc {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11;
+	}
+	
+	</style>

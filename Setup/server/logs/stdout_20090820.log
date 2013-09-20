@@ -1,0 +1,15 @@
+DefaultInit: init
+Logging directory is: E:\SSP_HRM_3.0\Setup_web\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-08-20 13:49:41,234 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@1de891b)
+fsdfsdfsdfdf: 4000100010001
+KKKKK
+-1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-08-20 13:49:48,718 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 4041504150415
+KKKKK
+2--------
+2009-08-20 13:50:25,390 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'

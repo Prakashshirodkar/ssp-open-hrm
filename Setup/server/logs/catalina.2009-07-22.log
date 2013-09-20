@@ -1,0 +1,156 @@
+Jul 22, 2009 1:59:26 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 1:59:27 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 1:59:27 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2882 ms
+Jul 22, 2009 1:59:27 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 1:59:27 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 1:59:28 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 1:59:37 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 1:59:37 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 1:59:37 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/141  config=null
+Jul 22, 2009 1:59:37 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10214 ms
+Jul 22, 2009 2:02:34 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:02:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 2:02:35 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:12:59 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 2:13:01 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:13:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 9145 ms
+Jul 22, 2009 2:13:02 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 2:13:02 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 2:13:03 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 2:13:18 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:13:19 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 2:13:19 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/125  config=null
+Jul 22, 2009 2:13:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 17617 ms
+Jul 22, 2009 2:21:03 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:21:04 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 2:21:04 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:38:20 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 2:38:21 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:38:21 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3719 ms
+Jul 22, 2009 2:38:21 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 2:38:21 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 2:38:25 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 2:38:38 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:38:39 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 2:38:39 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/532  config=null
+Jul 22, 2009 2:38:39 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 17602 ms
+Jul 22, 2009 2:45:16 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:45:17 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 2:45:18 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:45:42 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 2:45:42 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:45:42 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1797 ms
+Jul 22, 2009 2:45:42 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 2:45:42 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 2:45:42 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 2:45:50 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:45:50 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 2:45:50 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/46  config=null
+Jul 22, 2009 2:45:50 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 7999 ms
+Jul 22, 2009 2:48:13 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:48:14 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 2:48:14 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:49:23 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 2:49:23 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:49:23 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1728 ms
+Jul 22, 2009 2:49:23 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 2:49:23 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 2:49:24 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 2:49:32 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:49:32 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 2:49:32 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/46  config=null
+Jul 22, 2009 2:49:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 8817 ms
+Jul 22, 2009 2:50:52 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:50:53 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 2:50:53 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:50:56 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\CTLan\Project\HRM_3.0\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin
+Jul 22, 2009 2:50:56 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:50:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1798 ms
+Jul 22, 2009 2:50:56 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jul 22, 2009 2:50:56 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Jul 22, 2009 2:50:57 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Jul 22, 2009 2:51:04 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 2:51:05 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Jul 22, 2009 2:51:05 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/125  config=null
+Jul 22, 2009 2:51:05 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 8568 ms
+Jul 22, 2009 3:01:04 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Jul 22, 2009 3:01:05 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Jul 22, 2009 3:01:05 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080

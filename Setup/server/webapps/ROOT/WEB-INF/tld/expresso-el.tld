@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.1//EN"
+	"http://java.sun.com/j2ee/dtds/web-jsptaglibrary_1_1.dtd">
+<taglib>
+	<tlibversion>1.0</tlibversion>
+	<jspversion>1.1</jspversion>
+	<shortname>expresso_el</shortname>
+	<uri>http://www.jcorporate.com/taglib/expresso-el</uri>	
+	<tag>
+		<name>action</name>
+		<tagclass>com.jcorporate.expresso.services.taglib.FormActionTag</tagclass>
+		<bodycontent>empty</bodycontent>
+		<attribute>
+			<name>value</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>default</name>
+			<required>false</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>buttonparams</name>
+		<tagclass>com.jcorporate.expresso.services.taglib.ButtonParams</tagclass>
+		<bodycontent>empty</bodycontent>
+		<attribute>
+			<name>value</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>submitname</name>
+		<tagclass>com.jcorporate.expresso.services.taglib.TransitionName</tagclass>
+		<bodycontent>empty</bodycontent>
+		<attribute>
+			<name>value</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>options</name>
+		<tagclass>com.jcorporate.expresso.services.taglib.SelectOptions</tagclass>
+		<bodycontent>empty</bodycontent>
+		<attribute>
+			<name>value</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+</taglib>

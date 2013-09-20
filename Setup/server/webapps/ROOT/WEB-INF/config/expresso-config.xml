@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE expresso-config PUBLIC "-//Jcorporate Ltd//DTD Expresso Configuration 4.0//EN"
+          "http://www.jcorporate.com/dtds/expresso-config_4_0.dtd">
+<expresso-config>
+	<logDirectory>noLongerSpecifiedHere-SEEweb.xmlForLogDirParam</logDirectory>
+	<strongCrypto>n</strongCrypto>
+	<servletAPI>2_3</servletAPI>
+	<cryptoKey>Sample Test Key - Change for serious deployment</cryptoKey>
+	<encryptMode>AES</encryptMode>
+	<class-handlers>
+		<class-handler name="userInfo"
+			classHandler="com.jcorporate.expresso.services.dbobj.DefaultUserInfo" />
+		<class-handler name="orderedCache"
+			classHandler="com.jcorporate.expresso.core.cache.OrderedCache" />
+		<class-handler name="unorderedCache"
+			classHandler="com.jcorporate.expresso.core.cache.UnOrderedCache" />
+		<class-handler name="registration"
+			classHandler="com.jcorporate.expresso.services.controller.SimpleRegistration" />
+		<class-handler name="login"
+			classHandler="com.jcorporate.expresso.services.controller.SimpleLoginController" />
+		<!--
+			Others are: <class-handler name="nextNumber"
+			classHandler="com.centercomp.clustering.ClusterNextNumber"/>
+			<class-handler name="cacheSynchronizer"
+			classHandler="com.centercomp.clustering.ClusteredCacheSync"/>
+		-->
+	</class-handlers>
+	<!--
+		<context name="default"> <description>Hypersonic
+		Database</description> <jdbc driver="org.hsqldb.jdbcDriver"
+		url="jdbc:hsqldb:%web-app%WEB-INF/db/default/default"
+		connectFormat="3" login="sa" password="" cache="y"
+		createTableIndicies="true" limitationPosition=""
+		escapeHandler="com.jcorporate.expresso.core.db.DoubleQuoteEscapeHandler"
+		/> <type-mapping> <java-type>LONGVARCHAR</java-type>
+		<db-type>LONGVARCHAR</db-type> </type-mapping> <type-mapping>
+		<java-type>BLOB</java-type> <db-type>BINARY</db-type> </type-mapping>
+		<type-mapping> <java-type>CLOB</java-type>
+		<db-type>LONGVARCHAR</db-type> </type-mapping>
+		<images>%context%/%expresso-dir%/images</images>
+		<startJobHandler>y</startJobHandler>
+		<showStackTrace>y</showStackTrace> <mailDebug>n</mailDebug> </context>
+	-->
+	<context name="default">
+		<description>Default Database (InterBase)</description>
+		<hasSetupTables>true</hasSetupTables>
+		  
+		 <jdbc driver="org.firebirdsql.jdbc.FBDriver"
+			url="jdbc:firebirdsql:localhost/3051:D:/CTLan/Project/workspace/Web_Hennessy/db/SSP_HRM_DB_30.GDB?lc_ctype=UNICODE_FSS"
+			connectFormat="1" login="sysdba" password="masterkey" cache="y"
+			createTableIndicies="true"
+			escapeHandler="com.jcorporate.expresso.core.db.DoubleQuoteEscapeHandler" />
+		
+		<type-mapping>
+		  	<java-type>LONGVARCHAR</java-type>
+		  	<expresso-type>text</expresso-type>
+		  	<db-type>varchar(2000)</db-type>
+	  	</type-mapping>
+	  	<type-mapping>
+			<java-type>DATE</java-type>
+			<db-type>DATE</db-type>
+		</type-mapping>
+		<type-mapping>
+			<java-type>FLOAT</java-type>
+			<db-type>DECIMAL</db-type>
+		</type-mapping>
+		<type-mapping>
+			<java-type>BIT</java-type>
+			<db-type>SMALLINT</db-type>
+		</type-mapping>
+		<type-mapping>
+			<java-type>LONG</java-type>
+			<db-type>INTEGER</db-type>
+		</type-mapping>
+		<type-mapping>
+			<java-type>BLOB</java-type>
+			<db-type>BLOB SUB_TYPE 0</db-type>
+		</type-mapping>
+		<type-mapping>
+			<java-type>CLOB</java-type>
+			<db-type>BLOB SUB_TYPE 1</db-type>
+		</type-mapping>
+		<images>%context%/%expresso-dir%/images</images>
+		<startJobHandler>n</startJobHandler>
+		<showStackTrace>y</showStackTrace>
+		<mailDebug>n</mailDebug>
+	</context>
+</expresso-config>

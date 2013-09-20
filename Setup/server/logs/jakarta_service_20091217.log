@@ -1,0 +1,11 @@
+[2009-12-17 16:50:27] [info] Procrun (2.0.3.0) started
+[2009-12-17 16:50:27] [info] Running Service...
+[2009-12-17 16:50:27] [info] Starting service...
+[2009-12-17 16:50:29] [info] Service started in 2562 ms.
+[2009-12-17 16:54:23] [info] Console LOGOFF event signaled
+[2009-12-17 16:54:28] [info] Console LOGOFF event signaled
+[2009-12-17 16:55:04] [info] Console SHUTDOWN event signaled
+[2009-12-17 16:55:04] [info] Stopping service...
+[2009-12-17 16:55:05] [info] Service stopped.
+[2009-12-17 16:55:05] [info] Run service finished.
+[2009-12-17 16:55:05] [info] Procrun finished.

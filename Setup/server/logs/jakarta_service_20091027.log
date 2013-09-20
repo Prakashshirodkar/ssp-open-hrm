@@ -1,0 +1,38 @@
+[2009-10-27 16:35:08] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:35:08] [info] Service HRMserver name HRMserver
+[2009-10-27 16:35:09] [info] Service HRMserver installed
+[2009-10-27 16:35:09] [info] Procrun finished.
+[2009-10-27 16:35:09] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:35:09] [info] Updating service...
+[2009-10-27 16:35:09] [info] Service HRMserver updated
+[2009-10-27 16:35:09] [info] Update service finished.
+[2009-10-27 16:35:09] [info] Procrun finished.
+[2009-10-27 16:35:09] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:35:09] [info] Updating service...
+[2009-10-27 16:35:09] [info] Service HRMserver updated
+[2009-10-27 16:35:09] [info] Update service finished.
+[2009-10-27 16:35:09] [info] Procrun finished.
+[2009-10-27 16:35:23] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:35:23] [info] Running Service...
+[2009-10-27 16:35:23] [info] Starting service...
+[2009-10-27 16:35:25] [info] Service started in 2187 ms.
+[2009-10-27 16:36:41] [info] Stopping service...
+[2009-10-27 16:36:43] [info] Service stopped.
+[2009-10-27 16:36:43] [info] Run service finished.
+[2009-10-27 16:36:43] [info] Procrun finished.
+[2009-10-27 16:36:43] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:36:43] [info] Running Service...
+[2009-10-27 16:36:43] [info] Starting service...
+[2009-10-27 16:36:45] [info] Service started in 1390 ms.
+[2009-10-27 16:47:33] [info] Stopping service...
+[2009-10-27 16:47:38] [info] Service stopped.
+[2009-10-27 16:47:38] [info] Run service finished.
+[2009-10-27 16:47:38] [info] Procrun finished.
+[2009-10-27 16:47:39] [info] Procrun (2.0.3.0) started
+[2009-10-27 16:47:39] [info] Running Service...
+[2009-10-27 16:47:39] [info] Starting service...
+[2009-10-27 16:47:40] [info] Service started in 1531 ms.
+[2009-10-27 16:51:35] [info] Stopping service...
+[2009-10-27 16:51:37] [info] Service stopped.
+[2009-10-27 16:51:37] [info] Run service finished.
+[2009-10-27 16:51:37] [info] Procrun finished.

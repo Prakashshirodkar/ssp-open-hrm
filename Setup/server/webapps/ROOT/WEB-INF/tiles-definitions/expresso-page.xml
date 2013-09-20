@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration//EN"
+       "http://jakarta.apache.org/struts/dtds/tiles-config.dtd">
+<tiles-definitions>
+	<!-- html definition Mappings  -->
+	<!-- Definition description  -->
+	<definition name="expressoClassicDefinition" path="/expresso/layout/expresso-layout.jsp">
+		<put name="title" value="Expresso Framework" />
+		<put name="header" value="/expresso/header.jsp" />
+		<put name="menu" value="/expresso/toc.jsp" />
+		<put name="body" value="/expresso/main.jsp" />
+	</definition>
+</tiles-definitions>

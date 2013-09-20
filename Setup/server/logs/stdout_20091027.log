@@ -1,0 +1,52 @@
+DefaultInit: init
+Bad name for installation path: Reinstall in directory without a space in name.
+Logging directory is: D:\hrm on 192.168.81.101\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-10-27 16:35:41,765 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@180b22e)
+DefaultInit: init
+Bad name for installation path: Reinstall in directory without a space in name.
+Logging directory is: D:\hrm on 192.168.81.101\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-10-27 16:36:57,828 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@15f4a7f)
+KKKKK
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-10-27 16:37:16,984 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-10-27 16:38:17,437 WARN  [http-8080-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+DefaultInit: init
+Bad name for installation path: Reinstall in directory without a space in name.
+Logging directory is: D:\hrm on 192.168.81.101\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-10-27 16:47:56,031 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@13a34af)
+KKKKK
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-10-27 16:48:18,906 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+KKKKK
+2009-10-27 16:49:44,546 WARN  [http-8080-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-10-27 16:50:11,781 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn
+login:lanct@ssp.com.vn

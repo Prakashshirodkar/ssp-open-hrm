@@ -1,0 +1,144 @@
+DefaultInit: init
+Bad name for installation path: Reinstall in directory without a space in name.
+Logging directory is: D:\THAOLB\DU AN\HRM\hrm-web\Setup_web\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-12-01 08:43:15,000 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@1bc4ec8)
+KKKKK
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-12-01 08:44:28,437 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 09:16:11,859 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 09:35:29,432 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+java.lang.NullPointerException
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:812)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+java.lang.NullPointerException
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:812)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+KKKKK
+2009-12-01 09:58:40,197 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 10:10:47,854 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 10:12:13,994 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 10:12:40,072 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 11:51:19,322 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:39:25,525 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:43:43,275 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:44:01,869 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:44:37,244 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:47:51,229 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:48:03,447 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 13:49:16,682 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 14:27:55,510 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 14:35:27,072 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 14:35:44,229 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+java.lang.NullPointerException
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:812)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+java.lang.NullPointerException
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:812)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+KKKKK
+2009-12-01 14:38:25,947 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 14:38:38,213 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 15:18:22,088 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 15:46:40,604 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+Vao statemodel model model:hrm.model.LoginModel@dbbe8b
+username:NV-0030
+KKKKK
+2009-12-01 15:50:00,635 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+Vao statemodel model model:hrm.model.LoginModel@ed3b53
+username:NV-0030
+KKKKK
+2009-12-01 15:50:23,650 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+KKKKK
+2009-12-01 15:50:50,150 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+login:thaolb@ssp.com.vn
+login:thaolb@ssp.com.vn

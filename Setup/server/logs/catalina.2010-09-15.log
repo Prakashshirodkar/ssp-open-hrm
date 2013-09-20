@@ -1,0 +1,46 @@
+Sep 15, 2010 8:22:15 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WORKING\PROJECTS\Henessy\Setup_web\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%CommonProgramFiles%\Microsoft Shared\Windows Live;C:\Program Files\Borland\Delphi7\Bin;C:\Program Files\Borland\Delphi7\Projects\Bpl\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin
+Sep 15, 2010 8:22:16 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 8:22:16 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3888 ms
+Sep 15, 2010 8:22:19 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Sep 15, 2010 8:22:20 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Sep 15, 2010 8:22:37 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(E:\WORKING\PROJECTS\Henessy\Setup_web\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 15, 2010 8:23:11 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 8:23:12 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Sep 15, 2010 8:23:12 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/516  config=null
+Sep 15, 2010 8:23:12 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 55700 ms
+Sep 15, 2010 5:02:24 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 5:02:25 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Sep 15, 2010 5:02:27 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 7:26:08 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WORKING\PROJECTS\Henessy\Setup_web\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%CommonProgramFiles%\Microsoft Shared\Windows Live;C:\Program Files\Borland\Delphi7\Bin;C:\Program Files\Borland\Delphi7\Projects\Bpl\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin
+Sep 15, 2010 7:26:10 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 7:26:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 19128 ms
+Sep 15, 2010 7:26:12 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Sep 15, 2010 7:26:12 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Sep 15, 2010 7:26:16 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(E:\WORKING\PROJECTS\Henessy\Setup_web\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 15, 2010 7:26:39 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Sep 15, 2010 7:26:39 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Sep 15, 2010 7:26:39 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/141  config=null
+Sep 15, 2010 7:26:39 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 28626 ms

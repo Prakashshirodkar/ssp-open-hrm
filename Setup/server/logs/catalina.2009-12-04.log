@@ -1,0 +1,56 @@
+Dec 4, 2009 3:05:46 PM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at D:\server\temp
+Dec 4, 2009 3:05:47 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\QuickTime\QTSystem\
+Dec 4, 2009 3:05:47 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:05:47 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1526 ms
+Dec 4, 2009 3:05:47 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 4, 2009 3:05:47 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Dec 4, 2009 3:05:49 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Dec 4, 2009 3:05:57 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:05:57 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 4, 2009 3:05:57 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/140  config=null
+Dec 4, 2009 3:05:57 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 9956 ms
+Dec 4, 2009 3:07:27 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:07:28 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 4, 2009 3:07:29 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:07:30 PM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at D:\server\temp
+Dec 4, 2009 3:07:31 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\server\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\QuickTime\QTSystem\
+Dec 4, 2009 3:07:31 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:07:31 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1173 ms
+Dec 4, 2009 3:07:31 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 4, 2009 3:07:31 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Dec 4, 2009 3:07:32 PM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(D:\server\webapps\ROOT\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Dec 4, 2009 3:07:38 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 3:07:38 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 4, 2009 3:07:38 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Dec 4, 2009 3:07:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6475 ms
+Dec 4, 2009 4:59:35 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 4, 2009 4:59:36 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 4, 2009 4:59:36 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080

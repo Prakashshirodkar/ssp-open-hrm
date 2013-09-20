@@ -1,0 +1,283 @@
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 13:59:36,718 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@51ef4e)
+fsdfsdfsdfdf: 30001111111
+KKKKK
+-1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 13:59:59,343 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 4000100010001
+KKKKK
+2--------
+2009-07-22 14:00:06,109 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+Vao statemodel model model:hrm.model.LoginModel@dafa2c
+username:0001
+org.firebirdsql.jdbc.FBSQLException: GDS Exception. 335544343. invalid request BLR at offset 292
+data operation not supported
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.<init>(AbstractPreparedStatement.java:127)
+	at org.firebirdsql.jdbc.FBPreparedStatement.<init>(FBPreparedStatement.java:41)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.firebirdsql.jdbc.FBStatementFactory.createPreparedStatement(FBStatementFactory.java:90)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:869)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:824)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:817)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:293)
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:580)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+at org.firebirdsql.gds.GDSException: invalid request BLR at offset 292
+data operation not supported
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.readStatusVector(AbstractJavaGDSImpl.java:2169)
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.receiveResponse(AbstractJavaGDSImpl.java:2119)
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.iscDsqlPrepare(AbstractJavaGDSImpl.java:1529)
+	at org.firebirdsql.gds.impl.GDSHelper.prepareStatement(GDSHelper.java:189)
+	at org.firebirdsql.jdbc.AbstractStatement.prepareFixedStatement(AbstractStatement.java:1119)
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.prepareFixedStatement(AbstractPreparedStatement.java:1176)
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.<init>(AbstractPreparedStatement.java:124)
+	at org.firebirdsql.jdbc.FBPreparedStatement.<init>(FBPreparedStatement.java:41)
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.firebirdsql.jdbc.FBStatementFactory.createPreparedStatement(FBStatementFactory.java:90)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:869)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:824)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:817)
+	at org.firebirdsql.jdbc.AbstractConnection.prepareStatement(AbstractConnection.java:293)
+	at org.apache.jsp.user.phieuluongfrm_jsp._jspService(phieuluongfrm_jsp.java:580)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:374)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:337)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:266)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 14:13:17,906 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@102a0a5)
+fsdfsdfsdfdf: 30001111111
+KKKKK
+1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 14:13:38,562 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 14:38:37,343 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@180b22e)
+fsdfsdfsdfdf: 30001111111
+KKKKK
+1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 14:38:49,312 WARN  [http-8080-2] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+org.firebirdsql.jdbc.FBSQLException: GDS Exception. 335544466. violation of FOREIGN KEY constraint "FK_HR_PHEP_PHIEUDK_CT_2" on table "HR_PHEP_PHIEUDK_CT"
+Foreign key reference target does not exist
+At procedure 'WEB_DANGKY_PHEPNAM'
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.internalExecute(AbstractPreparedStatement.java:730)
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.execute(AbstractPreparedStatement.java:663)
+	at hrm.controller.RegistryController.runRegistryState(RegistryController.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.jcorporate.expresso.core.controller.Controller.newState(Controller.java:1384)
+	at com.jcorporate.expresso.core.controller.Controller.execute(Controller.java:1959)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+at org.firebirdsql.gds.GDSException: violation of FOREIGN KEY constraint "FK_HR_PHEP_PHIEUDK_CT_2" on table "HR_PHEP_PHIEUDK_CT"
+Foreign key reference target does not exist
+At procedure 'WEB_DANGKY_PHEPNAM'
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.readStatusVector(AbstractJavaGDSImpl.java:2169)
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.receiveResponse(AbstractJavaGDSImpl.java:2119)
+	at org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl.iscDsqlExecute2(AbstractJavaGDSImpl.java:1185)
+	at org.firebirdsql.gds.impl.GDSHelper.executeStatement(GDSHelper.java:226)
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.internalExecute(AbstractPreparedStatement.java:726)
+	at org.firebirdsql.jdbc.AbstractPreparedStatement.execute(AbstractPreparedStatement.java:663)
+	at hrm.controller.RegistryController.runRegistryState(RegistryController.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.jcorporate.expresso.core.controller.Controller.newState(Controller.java:1384)
+	at com.jcorporate.expresso.core.controller.Controller.execute(Controller.java:1959)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+java.lang.NullPointerException
+	at com.jcorporate.expresso.core.controller.Controller.getActionForward(Controller.java:2285)
+	at com.jcorporate.expresso.core.controller.Controller.execute(Controller.java:2051)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+2009-07-22 14:41:23,609 ERROR [http-8080-1] controller.Controller (Controller.java:2180) - Null Pointer Exception
+java.lang.NullPointerException
+	at com.jcorporate.expresso.core.controller.Controller.getActionForward(Controller.java:2285)
+	at com.jcorporate.expresso.core.controller.Controller.execute(Controller.java:2051)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:286)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Thread.java:619)
+fsdfsdfsdfdf: 30001111111
+KKKKK
+1--------
+2009-07-22 14:43:36,703 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 14:45:49,578 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@edbe39)
+fsdfsdfsdfdf: 3nv0001111111
+KKKKK
+-1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 14:46:07,312 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 3NV-0008111111
+KKKKK
+-1--------
+2009-07-22 14:47:08,109 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 7NV-0008NV-0008NV-0008
+KKKKK
+-1--------
+2009-07-22 14:47:13,687 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 1NV-000811
+KKKKK
+1--------
+2009-07-22 14:47:17,781 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 14:49:31,625 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@d0357a)
+fsdfsdfsdfdf: 30001111111
+KKKKK
+1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 14:49:40,343 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 1NV-000811
+KKKKK
+-1--------
+2009-07-22 14:50:43,734 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+DefaultInit: init
+Logging directory is: D:\CTLan\Project\HRM_3.0\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-07-22 14:51:04,359 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@d58ce2)
+fsdfsdfsdfdf: 1NV-000811
+KKKKK
+1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-07-22 14:51:05,968 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 8sspadminsspadminsspadmin
+KKKKK
+1--------
+2009-07-22 14:55:30,781 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 10hueltt-webhueltt-webhueltt-web
+KKKKK
+2--------
+2009-07-22 14:56:05,625 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+Vao statemodel model model:hrm.model.LoginModel@d9cbcb
+username:hueltt-web
+fsdfsdfsdfdf: 7NV-0076NV-0076NV-0076
+KKKKK
+2--------
+2009-07-22 14:58:54,000 WARN  [http-8080-1] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>1<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>0<!*-*!>
+select      MA_NHANVIEN ,      MA_THE_NHANVIEN ,      HO_TEN ,      HO_TEN_KHAISINH ,      HO_TEN_BIDANH ,      NGAY_SINH ,      NOI_SINH ,      QUE_QUAN ,      TUOI ,      GIOI_TINH ,      GIOI_TINH_TEXT ,      TINHTRANG_HONNHAN ,      SO_CMND ,      NGAYCAP_CMND ,      NOICAP_CMND ,      SO_PASSPORT ,      NGAYCAP_PASSPORT ,      NOICAP_PASSPORT ,      NGAYHETHAN_PASSPORT ,      QUOC_TICH ,      DAN_TOC ,      TON_GIAO ,      XUAT_THAN ,      SO_DIENTHOAI ,      SO_MOBILE ,      EMAIL ,      WEB_SITE ,      DIACHI_THUONGTRU ,      DIACHI_TAMTRU ,      DIACHI_LIENHE ,      NGUOI_LIENHE ,      TAIKHOAN_CANHAN ,      NGAN_HANG ,      CHIEU_CAO ,      CAN_NANG ,      DAUVET_DACBIET ,      NGAY_VAODANG ,      CHUCVU_DANG ,      NGAY_VAODOAN ,      CHUCVU_DOAN ,      NGAYVAO_CONGDOAN ,      CHUCVU_CONGDOAN ,      NGAYVAO_CONGTY ,      TRINHDO_VANHOA ,      TRINHDO_HOCVAN ,      NAM_TOTNGHIEP ,      NOI_TOTNGHIEP ,      NGHE_NGHIEP ,      SOTRUONG_CONGTAC ,      CONGVIEC_LAUNHAT ,      MA_DONVI ,      TEN_DONVI ,      TEN_CHUCVU ,      NGAY_BONHIEM ,      VITRI_CHINH ,      LOAI_CONGVIEC  from HR_BC_DS_NHANVIEN (      null ,      '1' ,      '1' ,      null)

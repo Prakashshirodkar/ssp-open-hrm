@@ -1,0 +1,19 @@
+[2009-12-04 15:05:45] [info] Procrun (2.0.3.0) started
+[2009-12-04 15:05:45] [info] Running Service...
+[2009-12-04 15:05:45] [info] Starting service...
+[2009-12-04 15:05:46] [info] Service started in 1453 ms.
+[2009-12-04 15:07:27] [info] Stopping service...
+[2009-12-04 15:07:29] [info] Service stopped.
+[2009-12-04 15:07:29] [info] Run service finished.
+[2009-12-04 15:07:29] [info] Procrun finished.
+[2009-12-04 15:07:30] [info] Procrun (2.0.3.0) started
+[2009-12-04 15:07:30] [info] Running Service...
+[2009-12-04 15:07:30] [info] Starting service...
+[2009-12-04 15:07:31] [info] Service started in 1203 ms.
+[2009-12-04 16:59:25] [info] Console LOGOFF event signaled
+[2009-12-04 16:59:31] [info] Console LOGOFF event signaled
+[2009-12-04 16:59:35] [info] Console SHUTDOWN event signaled
+[2009-12-04 16:59:35] [info] Stopping service...
+[2009-12-04 16:59:36] [info] Service stopped.
+[2009-12-04 16:59:36] [info] Run service finished.
+[2009-12-04 16:59:37] [info] Procrun finished.

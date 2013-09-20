@@ -1,0 +1,43 @@
+DefaultInit: init
+Logging directory is: E:\SSP_HRM_3.0\Setup_web\server\webapps\ROOT\WEB-INF\log
+ConfigManager: Done reading XML config - no errors or warnings
+Loading Messagebundle: com/jcorporate/expresso/core
+2009-08-28 08:48:55,953 WARN  [Thread-1] misc.ConfigManager (ConfigManager.java:836) - Job handler for configuration 'default' not enabled (because of the setting in expresso-config.xml).
+initRequestProcessorClass(org.apache.struts.config.impl.ModuleConfigImpl@c1186f)
+fsdfsdfsdfdf: 3NV-0001111111
+KKKKK
+-1--------
+Loading Messagebundle: com.jcorporate.expresso.core.ExpressoSchema
+2009-08-28 08:49:57,609 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 4000100010001
+KKKKK
+-1--------
+2009-08-28 08:50:39,484 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 30001111111
+KKKKK
+-1--------
+2009-08-28 08:50:43,953 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 60001ssphrmssphrm
+KKKKK
+-1--------
+2009-08-28 08:50:58,796 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 60001ssphrmssphrm
+KKKKK
+-1--------
+2009-08-28 08:51:07,687 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 80001ssphrmtdssphrmtd
+KKKKK
+1--------
+2009-08-28 08:51:15,968 WARN  [http-80-3] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 90001ssphrmtmpssphrmtmp
+KKKKK
+-1--------
+2009-08-28 09:46:44,343 WARN  [http-80-4] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 80001ssphrmtdssphrmtd
+KKKKK
+1--------
+2009-08-28 09:46:51,296 WARN  [http-80-4] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'
+fsdfsdfsdfdf: 80001ssphrmtdssphrmtd
+KKKKK
+1--------
+2009-08-28 11:05:37,781 WARN  [http-80-4] i18n.Messages (Messages.java:425) - No such key 'No Title' in bundle for schemas: '[com.jcorporate.expresso.core.ExpressoSchema]'

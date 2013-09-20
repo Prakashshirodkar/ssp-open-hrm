@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN" "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+<struts-config>
+	<form-beans>
+		<form-bean name="default"
+			type="com.jcorporate.expresso.core.controller.DefaultForm" />
+		<form-bean name="createWizard"
+			type="com.jcorporate.expresso.services.controller.configuration.CreateSettingsBean" />
+	</form-beans>
+	<action-mappings>
+		<action path="/LoginController" type="hrm.controller.LoginController"
+			name="default" parameter="methode" scope="request" validate="false">
+			<forward name="login" path="/login.jsp" />
+			<forward name="changepass" path="/redirect.jsp" />
+			<forward name="loginsuccess" path="/redirect.jsp" />
+			<forward name="loginfail" path="/login.jsp?cm=fail" />
+		</action>
+		<action path="/user/UpdateController" type="hrm.controller.UpdateController"
+			name="default" parameter="methode" scope="request" validate="false">
+		</action>
+		<action path="/user/RegistryController" type="hrm.controller.RegistryController"
+			name="default" parameter="methode" scope="request" validate="false">
+		</action>
+		<action path="/user/DeleteController" type="hrm.controller.DeleteController"
+			name="default" parameter="methode" scope="request" validate="false">
+		</action>
+	</action-mappings>
+
+	<message-resources parameter="" />
+	<message-resources key="" parameter="" />
+
+	<plug-in className="com.jcorporate.expresso.core.controller.ExpressoPlugin" />
+	<plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+		<set-property property="pathnames"
+			value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml" />
+	</plug-in>
+</struts-config>
